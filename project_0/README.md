@@ -23,5 +23,5 @@
 **Что практикуем**
 Учимся писать хороший код на python
 ### Краткая информация о данных
-...•
-:arrow_up: [к оглавлению](https://github.com/MarinaThiele/sf_data_science/blob/main/project_0/README.#0главление)
+...  
+:arrow_up:   [к оглавлению](https://github.com/MarinaThiele/sf_data_science/blob/main/project_0/README.#0главление)
