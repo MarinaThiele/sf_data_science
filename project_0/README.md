@@ -5,7 +5,7 @@
 [3. Краткая информация о данных](https://github.com/MarinaThiele/sf_data_science/blob/main/project_0/README.md#краткая-информация-о-данных)  
 [4. Этапы работы над проектом](https://github.com/MarinaThiele/sf_data_science/blob/main/project_0/README.md#Этапы-работы-над-проектом)   
 [5. Результат](https://github.com/MarinaThiele/sf_data_science/blob/main/project_0/README.md#Результат)   
-[6. Выводы](https://github.com/MarinaThiele/sf_data_science/blob/main/project_0/README..md#Bыводы)
+[6. Выводы](https://github.com/MarinaThiele/sf_data_science/blob/main/project_0/README.md#Bыводы)
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток.
 
@@ -25,4 +25,4 @@
 Учимся писать хороший код на python
 ### Краткая информация о данных
 ...  
-:arrow_up:   [к оглавлению](https://github.com/MarinaThiele/sf_data_science/blob/main/project_0/README.#0главление)
+:arrow_up:   [к оглавлению](https://github.com/MarinaThiele/sf_data_science/blob/main/project_0/README.md#0главление)
