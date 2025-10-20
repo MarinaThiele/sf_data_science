@@ -9,6 +9,7 @@ def random_predict(number: int = 1) -> int:
         int: Число попыток
     """
     count = 0
+    #Присваиваем предполагаемому числу значение равное середине интервала
     predict_number = 50
     #Интервал для поиска
     interval_length = 50
@@ -16,11 +17,15 @@ def random_predict(number: int = 1) -> int:
           count += 1
           if number == predict_number:
              break  # выход из цикла если угадали
+          #Если интервал для поиска 1 и число не угадано, 
+          # то сравниваем с угадываемым числом и проверяем соответственно следующее или предыдущее число
           elif (interval_length == 1) and (number != predict_number):
             if number > predict_number:
                predict_number += 1
             elif number < predict_number:
                predict_number -= 1
+          #Уменьшаем длину интервала для поиска в два раза 
+          # и изменяем предполагаемое число на длину этого интервала
           else:
             if number > predict_number:
               interval_length = interval_length//2
